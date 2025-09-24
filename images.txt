@@ -1,8 +1,3 @@
-openjdk:latest
-ruby:latest
-influxdb:latest
-debian:latest
-logstash:latest
 tomcat:latest
 java:latest
 nextcloud:latest
