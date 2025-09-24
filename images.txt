@@ -1,4 +1,4 @@
-alpine arm/v7:alpine-v7                 
+arm32v7/alpine arm/v7:alpine-v7                 
 arm32v7/ubuntu:22.04 arm/v7/ubuntu:22.04-v7   
 arm32v7/debian:11 arm/v7/debian:11-v7      
 arm32v7/fedora:38 arm/v7/fedora:38-v7      
@@ -21,4 +21,4 @@ arm32v7/ruby:3.1-alpine arm/v7/ruby:3.1-alpine-v7
 arm32v7/php:8.1-fpm-alpine arm/v7/php:8.1-fpm-alpine-v7  
 arm32v7/jenkins:2.387-lts arm/v7/jenkins:2.387-lts-v7   
 arm32v7/maven:3.8-openjdk-11 arm/v7/maven:3.8-openjdk-11-v7  
-arm32v7/docker:20.10-dind arm/v7/docker:20.10-dind-v7 
+arm32v7/docker:20.10-dind arm/v7/docker:20.10-dind-v7  
