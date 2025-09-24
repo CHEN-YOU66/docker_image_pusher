@@ -1,1 +1,1 @@
-
+docker.io/threatbook/hfish-server:latest
