@@ -12,7 +12,6 @@ memcached:latest
 registry:latest
 hello-world:latest
 golang:latest
-centos:latest
 docker:latest
 php:latest
 mariadb:latest
