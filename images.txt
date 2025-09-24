@@ -1,9 +1,3 @@
-haproxy:latest
-traefik:latest
-rabbitmq:latest
-wordpress:latest
-python:latest
-elasticsearch:latest
 openjdk:latest
 ruby:latest
 influxdb:latest
