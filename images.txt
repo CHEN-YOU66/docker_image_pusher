@@ -1,24 +1,151 @@
-arm32v7/alpine arm/v7:alpine-v7                 
-arm32v7/ubuntu:22.04 arm/v7/ubuntu:22.04-v7   
-arm32v7/debian:11 arm/v7/debian:11-v7      
-arm32v7/fedora:38 arm/v7/fedora:38-v7      
-arm32v7/nginx:alpine arm/v7/nginx:alpine-v7   
-arm32v7/httpd arm/v7/httpd:latest-v7          
-arm32v7/tomcat:9-jre-alpine arm/v7/tomcat:9-jre-alpine-v7  
-arm32v7/haproxy arm/v7/haproxy:latest-v7        
-arm32v7/traefik:v2.10 arm/v7/traefik:v2.10-v7  
-arm32v7/redis:alpine arm/v7/redis:alpine-v7   
-arm32v7/mysql:8.0 arm/v7/mysql:8.0-v7     
-arm32v7/mariadb:10.6 arm/v7/mariadb:10.6-v7   
-arm32v7/mongo:5.0 arm/v7/mongo:5.0-v7      
-arm32v7/postgres:14-alpine arm/v7/postgres:14-alpine-v7  
-arm32v7/influxdb:1.8 arm/v7/influxdb:1.8-v7   
-arm32v7/python:3.10-alpine arm/v7/python:3.10-alpine-v7  
-arm32v7/node:16-alpine arm/v7/node:16-alpine-v7      
-arm32v7/openjdk:11-jre-alpine arm/v7/openjdk:11-jre-alpine-v7  
-arm32v7/golang:1.19-alpine arm/v7/golang:1.19-alpine-v7  
-arm32v7/ruby:3.1-alpine arm/v7/ruby:3.1-alpine-v7     
-arm32v7/php:8.1-fpm-alpine arm/v7/php:8.1-fpm-alpine-v7  
-arm32v7/jenkins:2.387-lts arm/v7/jenkins:2.387-lts-v7   
-arm32v7/maven:3.8-openjdk-11 arm/v7/maven:3.8-openjdk-11-v7  
-arm32v7/docker:20.10-dind arm/v7/docker:20.10-dind-v7  
+nginx:latest
+alpine:latest
+busybox:latest
+httpd:latest
+redis:latest
+mongo:latest
+ubuntu:latest
+node:latest
+postgres:latest
+mysql:latest
+memcached:latest
+registry:latest
+hello-world:latest
+golang:latest
+centos:latest
+docker:latest
+php:latest
+mariadb:latest
+consul:latest
+haproxy:latest
+traefik:latest
+rabbitmq:latest
+wordpress:latest
+python:latest
+elasticsearch:latest
+openjdk:latest
+ruby:latest
+influxdb:latest
+debian:latest
+logstash:latest
+tomcat:latest
+java:latest
+nextcloud:latest
+maven:latest
+jenkins:latest
+swarm:latest
+telegraf:latest
+ghost:latest
+kibana:latest
+drupal:latest
+kong:latest
+cassandra:latest
+vault:latest
+nats:latest
+sonarqube:latest
+fedora:latest
+neo4j:latest
+gradle:latest
+sentry:latest
+owncloud:latest
+jruby:latest
+perl:latest
+solr:latest
+rethinkdb:latest
+rocket.chat:latest
+groovy:latest
+percona:latest
+amazonlinux:latest
+chronograf:latest
+buildpack-deps:latest
+nats-streaming:latest
+flink:latest
+zookeeper:latest
+joomla:latest
+erlang:latest
+couchdb:latest
+jetty:latest
+eclipse-mosquitto:latest
+redmine:latest
+pypy:latest
+iojs:latest
+bash:latest
+django:latest
+mono:latest
+couchbase:latest
+adminer:latest
+piwik:latest
+crate:latest
+elixir:latest
+kapacitor:latest
+arangodb:latest
+haxe:latest
+websphere-liberty:latest
+tomee:latest
+ubuntu-debootstrap:latest
+opensuse:latest
+oraclelinux:latest
+mongo-express:latest
+orientdb:latest
+gcc:latest
+rails:latest
+ros:latest
+xwiki:latest
+ibmjava:latest
+rust:latest
+odoo:latest
+clojure:latest
+neurodebian:latest
+swift:latest
+aerospike:latest
+composer:latest
+irssi:latest
+backdrop:latest
+notary:latest
+julia:latest
+znc:latest
+r-base:latest
+php-zendserver:latest
+matomo:latest
+nuxeo:latest
+celery:latest
+docker-dev:latest
+storm:latest
+gazebo:latest
+plone:latest
+bonita:latest
+mediawiki:latest
+geonetwork:latest
+cirros:latest
+haskell:latest
+rapidoid:latest
+hylang:latest
+teamspeak:latest
+eggdrop:latest
+convertigo:latest
+fsharp:latest
+rakudo-star:latest
+lightstreamer:latest
+swipl:latest
+spiped:latest
+ubuntu-upstart:latest
+hello-seattle:latest
+open-liberty:latest
+thrift:latest
+kaazing-gateway:latest
+photon:latest
+glassfish:latest
+mageia:latest
+hola-mundo:latest
+crux:latest
+known:latest
+silverpeas:latest
+sourcemage:latest
+hipache:latest
+yourls:latest
+clearlinux:latest
+scratch:latest
+sl:latest
+clefos:latest
+euleros:latest
+alt:latest
