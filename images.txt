@@ -1,29 +1,24 @@
-arm32v7/alpine:latest
-arm32v7/ubuntu:22.04
-arm32v7/debian:11
-arm32v7/fedora:38
-arm32v7/nginx:latest
-arm32v7/nginx:alpine
-arm32v7/httpd:latest
-arm32v7/tomcat:9-jre-alpine
-arm32v7/haproxy:latest
-arm32v7/traefik:v2.10
-arm32v7/redis:alpine
-arm32v7/mysql:8.0
-arm32v7/mysql:5.7
-arm32v7/mariadb:10.6
-arm32v7/mongo:5.0
-arm32v7/postgres:14-alpine
-arm32v7/influxdb:1.8
-arm32v7/python:3.10-alpine
-arm32v7/node:16-alpine
-arm32v7/openjdk:11-jre-alpine
-arm32v7/golang:1.19-alpine
-arm32v7/ruby:3.1-alpine
-arm32v7/php:8.1-fpm-alpine
-arm32v7/perl:5.36-alpine
-arm32v7/jenkins:2.387-lts
-arm32v7/maven:3.8-openjdk-11
-arm32v7/gradle:7.6-jdk11
-arm32v7/docker:20.10-dind
-arm32v7/telegraf:1.25-alpine
+alpine --platform=linux/arm/v7                 
+arm32v7/ubuntu:22.04 --platform=linux/arm/v7   
+arm32v7/debian:11 --platform=linux/arm/v7      
+arm32v7/fedora:38 --platform=linux/arm/v7      
+arm32v7/nginx:alpine --platform=linux/arm/v7   
+arm32v7/httpd --platform=linux/arm/v7          
+arm32v7/tomcat:9-jre-alpine --platform=linux/arm/v7  
+arm32v7/haproxy --platform=linux/arm/v7        
+arm32v7/traefik:v2.10 --platform=linux/arm/v7  
+arm32v7/redis:alpine --platform=linux/arm/v7   
+arm32v7/mysql:8.0 --platform=linux/arm/v7     
+arm32v7/mariadb:10.6 --platform=linux/arm/v7   
+arm32v7/mongo:5.0 --platform=linux/arm/v7      
+arm32v7/postgres:14-alpine --platform=linux/arm/v7  
+arm32v7/influxdb:1.8 --platform=linux/arm/v7   
+arm32v7/python:3.10-alpine --platform=linux/arm/v7  
+arm32v7/node:16-alpine --platform=linux/arm/v7      
+arm32v7/openjdk:11-jre-alpine --platform=linux/arm/v7  
+arm32v7/golang:1.19-alpine --platform=linux/arm/v7  
+arm32v7/ruby:3.1-alpine --platform=linux/arm/v7     
+arm32v7/php:8.1-fpm-alpine --platform=linux/arm/v7  
+arm32v7/jenkins:2.387-lts --platform=linux/arm/v7   
+arm32v7/maven:3.8-openjdk-11 --platform=linux/arm/v7  
+arm32v7/docker:20.10-dind --platform=linux/arm/v7   
