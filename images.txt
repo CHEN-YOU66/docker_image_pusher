@@ -1,1 +1,1 @@
-arm32v7/ubuntu:20.04
+weishaw/claude-relay-service:latest
