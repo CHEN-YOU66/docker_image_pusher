@@ -1,1 +1,1 @@
-shareailab/kode:latest
+centos:centos7
